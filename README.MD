@@ -21,4 +21,4 @@ Setup React Workstation
 
 ##### Terminal Window 2
 
-- - Setup GitHup Repo
+- Setup GitHup Repo
